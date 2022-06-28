@@ -2,7 +2,7 @@
 let thais = {
   Cor: "Azul",
   Comida: "Lasanha",
-  Bebida: "Suco de goiaba"
+  Bebida: "Suco de goiaba",
 }
 
 // Adicione uma nova propriedade sem alterar seu objeto inicial.
