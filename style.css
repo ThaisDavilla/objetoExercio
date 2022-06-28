@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-top: 20px;
+  text-align: center;
+}
+body{
+  background-color: antiquewhite;
+}
+main{
+  width: 80%;
+  margin: 0 auto;
+}
+h1{
+  color: crimson;
+  text-decoration: underline;
+}
